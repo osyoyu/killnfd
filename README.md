@@ -2,6 +2,9 @@
 
 Ever have seen cool filenames like `ま〜ふ゛るMake up a-ha-ha!` or `ケ゛ンキトリッハ゜ー` on your Linux system? Just run `killnfd` and convert them into their correct form.
 
+## Requirements
+- Ruby >= 2.2.0
+
 ## Installation
 
     $ gem install killnfd
