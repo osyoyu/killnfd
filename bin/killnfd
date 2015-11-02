@@ -1,0 +1,8 @@
+#!/usr/bin/env ruby
+
+require 'optparse'
+require 'killnfd'
+
+options = ARGV.getopts("", "dry-run")
+
+KillNFD::kill_nfd(dryrun: options['dry-run'])
