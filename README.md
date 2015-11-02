@@ -1,5 +1,7 @@
 # KillNFD
 
+[![Build Status](https://travis-ci.org/osyoyu/killnfd.svg?branch=master)](https://travis-ci.org/osyoyu/killnfd)
+
 Ever have seen cool filenames like `ま〜ふ゛るMake up a-ha-ha!` or `ケ゛ンキトリッハ゜ー` on your Linux system? Just run `killnfd` and convert them into their correct form.
 
 ## Requirements
